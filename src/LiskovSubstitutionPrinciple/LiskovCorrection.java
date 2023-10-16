@@ -1,3 +1,5 @@
+package LiskovSubstitutionPrinciple;
+
 public class LiskovCorrection {
         public static class MenuItem {
             public int price;
